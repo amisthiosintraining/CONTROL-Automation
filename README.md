@@ -1,4 +1,4 @@
-# CONTROL-Automation
+# CONTROL | Automation
 Yet another asynchronous suit retexture.
 
 ## Installation
